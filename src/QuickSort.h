@@ -1,7 +1,3 @@
-#ifndef ONLINERETAILANALYZER_QUICKSORT_H
-#define ONLINERETAILANALYZER_QUICKSORT_H
-
-
 #include <vector>
 #include "Product.h"
 
@@ -25,6 +21,3 @@ public:
     void quickSort();
 
 };
-
-
-#endif //ONLINERETAILANALYZER_QUICKSORT_H
